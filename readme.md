@@ -5,6 +5,6 @@ oups no ... my name is Emilien 👋
 
 ## dev skill
 
-- VSCode
-- html
-- css
+- VSCode (noob)
+- html (noob)
+- css (noob)
